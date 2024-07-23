@@ -8,7 +8,7 @@ This project uses the Spotify API to display data about artists and albums.
 
 1. Clone the repository:
     ```
-    git clone https://github.com/YOUR_GITHUB_USERNAME/spotify-api-project.git
+    git clone https://github.com/YOUR_GITHUB_USERNAME/code-the-dream-spotify-api-project.git
     ```
 
 2. Open the `index.html` file in your browser.
